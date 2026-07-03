@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `JPN225_1m.csv` (174,707 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **4,611,333** `1m` rows (~268.3 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
+> **Sample on GitHub** · `JPN225_1m.csv` (175,379 rows, `2026-01-04` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **4,611,333** `1m` rows (~268.3 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2009-03-11` → `2026-06-26`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/jpn225-1m-ohlcv-index-his
 |---|--:|---|
 | Instrument | Japan 225 (Nikkei) · Stock index | Japan 225 (Nikkei) · Stock index |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 174,707 | **4,611,333** |
-| Size | 10.02 MB | ~268.3 MB |
-| Period | `2025-12-26` → `2026-06-26` | `2009-03-11` → `2026-06-26` |
+| 1m rows | 175,379 | **4,611,333** |
+| Size | 10.74 MB | ~268.3 MB |
+| Period | `2026-01-04` → `2026-07-02` | `2009-03-11` → `2026-06-26` |
 | File | `JPN225_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`JPN225_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-26T20:44:00Z | 50717.49 | 50720.0 | 50717.49 | 50720.0 | 4 |
-| 2025-12-26T20:45:00Z | 50720.0 | 50720.01 | 50715.0 | 50715.01 | 12 |
-| 2025-12-26T20:46:00Z | 50715.01 | 50717.51 | 50712.49 | 50712.49 | 5 |
-| 2025-12-26T20:47:00Z | 50712.49 | 50720.01 | 50712.49 | 50720.01 | 6 |
-| 2025-12-26T20:48:00Z | 50720.01 | 50720.01 | 50715.01 | 50715.01 | 5 |
+| 2026-01-04T23:00:00Z | 51136.951 | 51221.952 | 51097.441 | 51221.952 | 8 |
+| 2026-01-04T23:01:00Z | 51221.952 | 51297.443 | 51221.952 | 51247.432 | 12 |
+| 2026-01-04T23:02:00Z | 51247.432 | 51257.433 | 51217.442 | 51232.442 | 12 |
+| 2026-01-04T23:03:00Z | 51232.442 | 51236.932 | 51177.452 | 51212.442 | 7 |
+| 2026-01-04T23:04:00Z | 51212.442 | 51266.953 | 51192.452 | 51257.433 | 33 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T20:40:00Z | 69578.00 | 69578.01 | 69532.99 | 69548.01 | 80.00 |
-| 2026-06-26T20:41:00Z | 69548.01 | 69573.00 | 69522.99 | 69523.01 | 68.00 |
-| 2026-06-26T20:42:00Z | 69523.01 | 69533.01 | 69512.99 | 69517.99 | 45.00 |
-| 2026-06-26T20:43:00Z | 69517.99 | 69557.99 | 69512.99 | 69553.01 | 90.00 |
+| 2026-07-02T22:06:00Z | 68336.19 | 68341.19 | 68331.18 | 68336.18 | 9.00 |
+| 2026-07-02T22:07:00Z | 68336.18 | 68341.20 | 68336.18 | 68336.19 | 9.00 |
+| 2026-07-02T22:08:00Z | 68336.19 | 68341.20 | 68336.19 | 68341.20 | 1.00 |
+| 2026-07-02T22:09:00Z | 68341.20 | 68346.20 | 68341.20 | 68341.20 | 2.00 |
 
 ## Schema
 
@@ -150,4 +150,4 @@ The complete **JPN225** archive on **[ork.ad](https://ork.ad/)** includes **13 O
 **[→ Get the full JPN225 dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · JPN225 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · JPN225 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
